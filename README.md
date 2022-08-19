@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on MERN stack, Next.js
+- 🔭 I’m currently working on MERN stack, React Native, Next.js
 
 - 🌱 I’m currently learning Vue.js, GraphQL
 <!--
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 📫 How to reach me: amaaz992000@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/amaaz-arshad-47300b16b/
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
