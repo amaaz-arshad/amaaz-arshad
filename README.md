@@ -6,10 +6,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on MERN stack, React Native, Next.js
-- 🌱 I’m currently learning Vue.js, GraphQL
 - 📫 How to reach me: https://www.linkedin.com/in/amaaz-arshad-47300b16b/
 
 <!--
+- 🌱 I’m currently learning Vue.js, GraphQL
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
