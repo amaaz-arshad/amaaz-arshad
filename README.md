@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaaz-arshad&count_private=true&show_icons=true&theme=radical)
--->
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amaaz-arshad&show_icons=true&theme=radical)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amaaz-arshad&show_icons=true&theme=radical)
+-->
